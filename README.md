@@ -1,1 +1,1 @@
-# wagtail-inertia-page
+# Page using wagtail
