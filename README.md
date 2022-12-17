@@ -1,0 +1,1 @@
+# wagtail-inertia-page
