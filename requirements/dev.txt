@@ -1,0 +1,5 @@
+# Specifies only dev-specific requirements
+# But imports the common ones too
+-r common.txt
+autopep8==2.0.1
+mypy==0.991
