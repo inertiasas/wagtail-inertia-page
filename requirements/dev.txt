@@ -2,4 +2,5 @@
 # But imports the common ones too
 -r common.txt
 autopep8==2.0.1
+django-debug-toolbar==3.8.1
 mypy==0.991
